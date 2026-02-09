@@ -44,4 +44,8 @@
 - `Fill water`
 - `Take money`
  
+ # Flowchart für die Anwendung
  <img src="img/Kaffeeautomat_flowchart.png" alt="flowchart kaffeeautomat" width=60%>
+
+# Allgemeines zu CPS
+  <img src="img/CPS.png" alt="CPS" width=60%>
