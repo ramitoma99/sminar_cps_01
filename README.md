@@ -44,3 +44,4 @@
 - `Fill water`
 - `Take money`
  
+ <img src="img/Kaffeeautomat_flowchart.png" alt="flowchart kaffeeautomat" width=60%>
